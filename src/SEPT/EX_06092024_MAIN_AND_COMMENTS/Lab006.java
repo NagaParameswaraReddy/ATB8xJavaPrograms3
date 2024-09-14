@@ -1,5 +1,5 @@
 //below code is package : folder with sept
-package SEPT.ex_06092024_main_and_comment;
+package SEPT.EX_06092024_MAIN_AND_COMMENTS;
 /*author - aman
 *program - ATB8X
 * Program to explain comments

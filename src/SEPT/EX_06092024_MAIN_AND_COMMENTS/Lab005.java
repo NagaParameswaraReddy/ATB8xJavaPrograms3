@@ -1,4 +1,4 @@
-package SEPT.ex_06092024_main_and_comment;
+package SEPT.EX_06092024_MAIN_AND_COMMENTS;
 
 public class Lab005 {
     public static void main(String[] args) {

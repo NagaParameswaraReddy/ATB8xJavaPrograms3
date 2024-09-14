@@ -1,4 +1,4 @@
-package SEPT.ex_06092024_main_and_comment;
+package SEPT.EX_06092024_MAIN_AND_COMMENTS;
 
 public class Lab008 {
     //In Java, the name of the parameter in the main method is not important to the JVM—it can be any

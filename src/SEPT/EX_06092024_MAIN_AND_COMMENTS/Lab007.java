@@ -1,4 +1,4 @@
-package SEPT.ex_06092024_main_and_comment;
+package SEPT.EX_06092024_MAIN_AND_COMMENTS;
 
 public class Lab007 {
     // Correctly defined main method - JVM entry point
