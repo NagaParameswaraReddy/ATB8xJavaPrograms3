@@ -1,4 +1,4 @@
-package SEPT.EX_13092024_TASK;
+package SEPT.EX_13092024;
 
 public class TASK_TABLE {
     public static void main(String[] args){
