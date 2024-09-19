@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc800b47-6d8a-47f0-8a68-204e72e1f87f" name="Changes" comment="Add files">
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab012java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_13092024/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_18092024/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SEPT/EX_18092024/task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bc800b47-6d8a-47f0-8a68-204e72e1f87f" name="Changes" comment="Add files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -78,13 +65,13 @@
       <recent name="C:\Users\Admin\IdeaProjects\ATB8xJavaPrograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task3">
-    <configuration name="Lab016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT.ex_11092024_data_types.Lab016" />
+  <component name="RunManager" selected="Application.Lab010">
+    <configuration name="Lab010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT.ex_09092024_keywords_and_identifiers.Lab010" />
       <module name="ATB8xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT.ex_11092024_data_types.*" />
+          <option name="PATTERN" value="SEPT.ex_09092024_keywords_and_identifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab010" />
         <item itemvalue="Application.task3" />
         <item itemvalue="Application.task2" />
         <item itemvalue="Application.task1" />
         <item itemvalue="Application.Lab017" />
-        <item itemvalue="Application.Lab016" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726346285312</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add files">
+      <option name="closed" value="true" />
+      <created>1726766498107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726766498107</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
