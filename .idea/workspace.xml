@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc800b47-6d8a-47f0-8a68-204e72e1f87f" name="Changes" comment="Add files" />
+    <list default="true" id="bc800b47-6d8a-47f0-8a68-204e72e1f87f" name="Changes" comment="Add files">
+      <change afterPath="$PROJECT_DIR$/src/SEPT/ex_25092024/task1_table10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEPT/ex_25092024/task2f_fact5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS;/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS;/Lab011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SEPT/EX_13092024/task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_18092024/task3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,25 +43,50 @@
     "Application.LAB_TABLE.executor": "Run",
     "Application.Lab007.executor": "Run",
     "Application.Lab008.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.Lab011.executor": "Run",
     "Application.Lab012java.executor": "Run",
     "Application.Lab013.executor": "Run",
     "Application.Lab014.executor": "Run",
     "Application.Lab015.executor": "Run",
     "Application.Lab016.executor": "Run",
     "Application.Lab017.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab072.executor": "Run",
+    "Application.Lab095.executor": "Run",
+    "Application.Lab096.executor": "Run",
+    "Application.Lab100.executor": "Run",
+    "Application.Lab101.executor": "Run",
+    "Application.Lab102.executor": "Run",
+    "Application.Lab103.executor": "Run",
+    "Application.Lab104.executor": "Run",
+    "Application.Lab106.executor": "Run",
+    "Application.Lab107.executor": "Run",
+    "Application.Lab108.executor": "Run",
+    "Application.Lab109.executor": "Run",
+    "Application.Lab110.executor": "Run",
+    "Application.Lab111.executor": "Run",
+    "Application.Lab112.executor": "Run",
+    "Application.Lab113.executor": "Run",
     "Application.TASK_ADDITION.executor": "Run",
     "Application.TASK_OPERATORS.executor": "Run",
     "Application.lab0009.executor": "Run",
     "Application.lab009.executor": "Run",
+    "Application.practise.executor": "Run",
+    "Application.practise2.executor": "Run",
     "Application.task1.executor": "Run",
+    "Application.task1_table10.executor": "Run",
     "Application.task2.executor": "Run",
+    "Application.task2f_fact5.executor": "Run",
     "Application.task3.executor": "Run",
+    "Application.task3_primeNuber.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/IdeaProjects/ATB8xJavaPrograms/src/SEPT",
-    "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -65,13 +96,13 @@
       <recent name="C:\Users\Admin\IdeaProjects\ATB8xJavaPrograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab010">
-    <configuration name="Lab010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT.ex_09092024_keywords_and_identifiers.Lab010" />
+  <component name="RunManager" selected="Application.task3_primeNuber">
+    <configuration name="Lab112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_25092024.Lab112" />
       <module name="ATB8xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT.ex_09092024_keywords_and_identifiers.*" />
+          <option name="PATTERN" value="sept.ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT.ex_11092024_data_types.Lab017" />
+    <configuration name="Lab113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_25092024.Lab113" />
       <module name="ATB8xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT.ex_11092024_data_types.*" />
+          <option name="PATTERN" value="sept.ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT.EX_18092024.task1" />
+    <configuration name="task1_table10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT.ex_25092024.task1_table10" />
       <module name="ATB8xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT.EX_18092024.*" />
+          <option name="PATTERN" value="SEPT.ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT.EX_18092024.task2" />
+    <configuration name="task2f_fact5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT.ex_25092024.task2f_fact5" />
       <module name="ATB8xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT.EX_18092024.*" />
+          <option name="PATTERN" value="SEPT.ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SEPT.EX_13092024.task3" />
+    <configuration name="task3_primeNuber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEPT.ex_25092024.task3_primeNuber" />
       <module name="ATB8xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SEPT.EX_13092024.*" />
+          <option name="PATTERN" value="SEPT.ex_25092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab010" />
-        <item itemvalue="Application.task3" />
-        <item itemvalue="Application.task2" />
-        <item itemvalue="Application.task1" />
-        <item itemvalue="Application.Lab017" />
+        <item itemvalue="Application.task3_primeNuber" />
+        <item itemvalue="Application.task2f_fact5" />
+        <item itemvalue="Application.task1_table10" />
+        <item itemvalue="Application.Lab113" />
+        <item itemvalue="Application.Lab112" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726766498107</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add files">
+      <option name="closed" value="true" />
+      <created>1726767045986</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726767045986</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,6 +244,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SEPT/ex_25092024/Lab111.java</url>
+          <line>3</line>
+          <properties class="sept.ex_25092024.Lab111" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

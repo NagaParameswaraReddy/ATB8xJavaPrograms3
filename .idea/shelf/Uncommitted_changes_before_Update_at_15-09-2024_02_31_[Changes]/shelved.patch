@@ -1,0 +1,345 @@
+Index: src/SEPT/ex_11092024_data_types/Lab013.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package SEPT.ex_11092024_data_types;\r\n\r\npublic class Lab013 {\r\n    public static void main(String[] args) {\r\n        //variable_name(identifier)-rules we have to follow\r\n        // boolean 123 = true; ->wrong\r\n        boolean a = true;\r\n        boolean b = true;\r\n        boolean aman_is_good_person=true;\r\n        //boolean 123aman = true;\r\n         boolean aman123 = true;\r\n         boolean _123=true;\r\n         System.out.println(_123);\r\n         boolean PRAMOD=true;\r\n         boolean aman_singh=true;\r\n        boolean aman$singh=true;\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/ex_11092024_data_types/Lab013.java b/src/SEPT/EX_11092024_DATA_TYPES/Lab013.java
+rename from src/SEPT/ex_11092024_data_types/Lab013.java
+rename to src/SEPT/EX_11092024_DATA_TYPES/Lab013.java
+--- a/src/SEPT/ex_11092024_data_types/Lab013.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_11092024_DATA_TYPES/Lab013.java	(date 1726346831313)
+@@ -1,4 +1,4 @@
+-package SEPT.ex_11092024_data_types;
++package SEPT.EX_11092024_DATA_TYPES;
+ 
+ public class Lab013 {
+     public static void main(String[] args) {
+Index: src/SEPT/ex_11092024_data_types/Lab012java.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package SEPT.ex_11092024_data_types;\r\n\r\npublic class Lab012java {\r\n    public static void main(String[] args) {\r\n        //write code\r\n        //data type variable_name = variable_value\r\n       //boolean is_married=True; -wrong\r\n        boolean is_married=true;\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/ex_11092024_data_types/Lab012java.java b/src/SEPT/EX_11092024_DATA_TYPES/Lab012java.java
+rename from src/SEPT/ex_11092024_data_types/Lab012java.java
+rename to src/SEPT/EX_11092024_DATA_TYPES/Lab012java.java
+--- a/src/SEPT/ex_11092024_data_types/Lab012java.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_11092024_DATA_TYPES/Lab012java.java	(date 1726346831292)
+@@ -1,4 +1,4 @@
+-package SEPT.ex_11092024_data_types;
++package SEPT.EX_11092024_DATA_TYPES;
+ 
+ public class Lab012java {
+     public static void main(String[] args) {
+Index: src/SEPT/ex_11092024_data_types/Lab015.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package SEPT.ex_11092024_data_types;\r\n\r\npublic class Lab015 {\r\n    public static void main(String[] args) {\r\n      //Data types\r\n\r\n     byte b=100;//8bits, 1Byte\r\n     short s=128; // 16bits , 2Byte\r\n     int i =1000; // 32bits,4Byte\r\n     long phone_number = 234556678L; //64 bits,8Bytes\r\n\r\n      char grade= 'A'; // A,b,c,d... -->ASCII value -int-assigned\r\n        //16 bits,2Byte\r\n\r\n        float f = 3.12f; // 32bits,4Byte\r\n\r\n        double d=11145.23555d; //64bits,8Bytes\r\n\r\n\r\n        //Non-primitive data types(user defined)\r\n        String name = \"Aman\"; //String-> bunch of char(collection of chars)\r\n        // Array,class -> user data types\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/ex_11092024_data_types/Lab015.java b/src/SEPT/EX_11092024_DATA_TYPES/Lab015.java
+rename from src/SEPT/ex_11092024_data_types/Lab015.java
+rename to src/SEPT/EX_11092024_DATA_TYPES/Lab015.java
+--- a/src/SEPT/ex_11092024_data_types/Lab015.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_11092024_DATA_TYPES/Lab015.java	(date 1726346831299)
+@@ -1,4 +1,4 @@
+-package SEPT.ex_11092024_data_types;
++package SEPT.EX_11092024_DATA_TYPES;
+ 
+ public class Lab015 {
+     public static void main(String[] args) {
+Index: src/SEPT/ex_11092024_data_types/Lab014.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package SEPT.ex_11092024_data_types;\r\n\r\npublic class Lab014 {\r\n    public static void main(String[] args) {\r\n\r\n        //data_type variable_name =variable_value(literal)\r\n        //data types\r\n        //boolean type\r\n        //numerical type\r\n        //integral-byte,short,int,long,char\r\n        //size-how much they can store\r\n        byte b =100;\r\n\r\n        short s = 128;\r\n\r\n\r\n        System.out.println(b);\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/ex_11092024_data_types/Lab014.java b/src/SEPT/EX_11092024_DATA_TYPES/Lab014.java
+rename from src/SEPT/ex_11092024_data_types/Lab014.java
+rename to src/SEPT/EX_11092024_DATA_TYPES/Lab014.java
+--- a/src/SEPT/ex_11092024_data_types/Lab014.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_11092024_DATA_TYPES/Lab014.java	(date 1726346831342)
+@@ -1,4 +1,4 @@
+-package SEPT.ex_11092024_data_types;
++package SEPT.EX_11092024_DATA_TYPES;
+ 
+ public class Lab014 {
+     public static void main(String[] args) {
+Index: src/SEPT/EX_13092024/Lab019.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/EX_13092024/Lab019.java b/src/SEPT/EX_13092024_FORMAT_SPECIFIER/Lab019.java
+rename from src/SEPT/EX_13092024/Lab019.java
+rename to src/SEPT/EX_13092024_FORMAT_SPECIFIER/Lab019.java
+--- a/src/SEPT/EX_13092024/Lab019.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_13092024_FORMAT_SPECIFIER/Lab019.java	(date 1726346831375)
+@@ -1,4 +1,4 @@
+-package SEPT.EX_13092024;
++package SEPT.EX_13092024_FORMAT_SPECIFIER;
+ 
+ public class Lab019 {
+     public static void main(String[] args) {
+Index: src/SEPT/ex_11092024_data_types/Lab017.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package SEPT.ex_11092024_data_types;\r\n\r\npublic class Lab017 {\r\n    public static void main(String[] args) {\r\n         char c='A';\r\n         System.out.println(c);\r\n\r\n        char c1='$';\r\n        System.out.println(c1);\r\n\r\n        char c2='\\n';//escaped char-> give new line\r\n        System.out.println(c2);\r\n\r\n        char c3='\\u1F6A';//unicode char\r\n        System.out.println(c3);// omega,for smiley\r\n\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/ex_11092024_data_types/Lab017.java b/src/SEPT/EX_11092024_DATA_TYPES/Lab017.java
+rename from src/SEPT/ex_11092024_data_types/Lab017.java
+rename to src/SEPT/EX_11092024_DATA_TYPES/Lab017.java
+--- a/src/SEPT/ex_11092024_data_types/Lab017.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_11092024_DATA_TYPES/Lab017.java	(date 1726346831322)
+@@ -1,4 +1,4 @@
+-package SEPT.ex_11092024_data_types;
++package SEPT.EX_11092024_DATA_TYPES;
+ 
+ public class Lab017 {
+     public static void main(String[] args) {
+Index: src/SEPT/ex_11092024_data_types/Lab016.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package SEPT.ex_11092024_data_types;\r\n\r\npublic class Lab016 {\r\n    public static void main(String[] args) {\r\n        //store the distance between earth and moon\r\n        long distance_between_earth_moon = 384400000L; //in Meter\r\n        double distance_between_earth_moon2 = 3844000.865; //in Meter\r\n\r\n        //max age\r\n        byte age=122;\r\n        int age1=100;//wasting memory - 2147483648\r\n\r\n        //int,double-->99%\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/ex_11092024_data_types/Lab016.java b/src/SEPT/EX_11092024_DATA_TYPES/Lab016.java
+rename from src/SEPT/ex_11092024_data_types/Lab016.java
+rename to src/SEPT/EX_11092024_DATA_TYPES/Lab016.java
+--- a/src/SEPT/ex_11092024_data_types/Lab016.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_11092024_DATA_TYPES/Lab016.java	(date 1726346831356)
+@@ -1,4 +1,4 @@
+-package SEPT.ex_11092024_data_types;
++package SEPT.EX_11092024_DATA_TYPES;
+ 
+ public class Lab016 {
+     public static void main(String[] args) {
+Index: src/SEPT/EX_13092024/Lab020.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/EX_13092024/Lab020.java b/src/SEPT/EX_13092024_FORMAT_SPECIFIER/Lab020.java
+rename from src/SEPT/EX_13092024/Lab020.java
+rename to src/SEPT/EX_13092024_FORMAT_SPECIFIER/Lab020.java
+--- a/src/SEPT/EX_13092024/Lab020.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_13092024_FORMAT_SPECIFIER/Lab020.java	(date 1726346831257)
+@@ -1,4 +1,4 @@
+-package SEPT.EX_13092024;
++package SEPT.EX_13092024_FORMAT_SPECIFIER;
+ 
+ public class Lab020 {
+     public static void main(String[] args) {
+Index: src/SEPT/EX_13092024/TASK_calculator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/EX_13092024/TASK_calculator.java b/src/SEPT/EX_13092024_FORMAT_SPECIFIER/TASK_calculator.java
+rename from src/SEPT/EX_13092024/TASK_calculator.java
+rename to src/SEPT/EX_13092024_FORMAT_SPECIFIER/TASK_calculator.java
+--- a/src/SEPT/EX_13092024/TASK_calculator.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_13092024_FORMAT_SPECIFIER/TASK_calculator.java	(date 1726346831283)
+@@ -1,4 +1,4 @@
+-package SEPT.EX_13092024;
++package SEPT.EX_13092024_FORMAT_SPECIFIER;
+ 
+ public class TASK_calculator {
+     public static void main(String[] args){
+Index: src/SEPT/ex_09092024_keywords_and_identifiers/Lab010.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package SEPT.ex_09092024_keywords_and_identifiers;\r\n\r\npublic class Lab010 {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello World!\");\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/ex_09092024_keywords_and_identifiers/Lab010.java b/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab010.java
+rename from src/SEPT/ex_09092024_keywords_and_identifiers/Lab010.java
+rename to src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab010.java
+--- a/src/SEPT/ex_09092024_keywords_and_identifiers/Lab010.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab010.java	(date 1726346831368)
+@@ -1,4 +1,4 @@
+-package SEPT.ex_09092024_keywords_and_identifiers;
++package SEPT.EX_09092024_KEYWORDS_AND_IDENTIFIERS;
+ 
+ public class Lab010 {
+     public static void main(String[] args) {
+Index: src/SEPT/ex_09092024_keywords_and_identifiers/Lab011.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package SEPT.ex_09092024_keywords_and_identifiers;\r\n\r\npublic class Lab011 {\r\n    public static void main(String[] args) {\r\n        //variables , datatypes , identifiers\r\n        boolean is_mohit_married = true;\r\n        boolean you_have_audi = false;\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/ex_09092024_keywords_and_identifiers/Lab011.java b/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab011.java
+rename from src/SEPT/ex_09092024_keywords_and_identifiers/Lab011.java
+rename to src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab011.java
+--- a/src/SEPT/ex_09092024_keywords_and_identifiers/Lab011.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab011.java	(date 1726346831273)
+@@ -1,4 +1,4 @@
+-package SEPT.ex_09092024_keywords_and_identifiers;
++package SEPT.EX_09092024_KEYWORDS_AND_IDENTIFIERS;
+ 
+ public class Lab011 {
+     public static void main(String[] args) {
+Index: src/SEPT/EX_13092024/TASK_TABLE.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/SEPT/EX_13092024/TASK_TABLE.java b/src/SEPT/EX_13092024_FORMAT_SPECIFIER/TASK_TABLE.java
+rename from src/SEPT/EX_13092024/TASK_TABLE.java
+rename to src/SEPT/EX_13092024_FORMAT_SPECIFIER/TASK_TABLE.java
+--- a/src/SEPT/EX_13092024/TASK_TABLE.java	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/src/SEPT/EX_13092024_FORMAT_SPECIFIER/TASK_TABLE.java	(date 1726346831305)
+@@ -1,4 +1,4 @@
+-package SEPT.EX_13092024;
++package SEPT.EX_13092024_FORMAT_SPECIFIER;
+ 
+ public class TASK_TABLE {
+     public static void main(String[] args){
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"bc800b47-6d8a-47f0-8a68-204e72e1f87f\" name=\"Changes\" comment=\"Add files\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2m06zP6fGBzauHkMszt5JeavAQ1\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.LAB_TABLE.executor\": \"Run\",\r\n    \"Application.Lab007.executor\": \"Run\",\r\n    \"Application.Lab008.executor\": \"Run\",\r\n    \"Application.Lab012java.executor\": \"Run\",\r\n    \"Application.Lab013.executor\": \"Run\",\r\n    \"Application.Lab014.executor\": \"Run\",\r\n    \"Application.Lab015.executor\": \"Run\",\r\n    \"Application.Lab016.executor\": \"Run\",\r\n    \"Application.Lab017.executor\": \"Run\",\r\n    \"Application.TASK_ADDITION.executor\": \"Run\",\r\n    \"Application.TASK_OPERATORS.executor\": \"Run\",\r\n    \"Application.lab0009.executor\": \"Run\",\r\n    \"Application.lab009.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Admin/IdeaProjects/ATB8xJavaPrograms/src/SEPT\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/Admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Admin\\IdeaProjects\\ATB8xJavaPrograms\\src\\SEPT\" />\r\n      <recent name=\"C:\\Users\\Admin\\IdeaProjects\\ATB8xJavaPrograms\\src\\SEPT\\ex_09092024_keywords_and_identifiers\" />\r\n      <recent name=\"C:\\Users\\Admin\\IdeaProjects\\ATB8xJavaPrograms\\src\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.Lab017\">\r\n    <configuration name=\"Lab013\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"SEPT.ex_11092024_data_types.Lab013\" />\r\n      <module name=\"ATB8xJavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"SEPT.ex_11092024_data_types.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Lab014\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"SEPT.ex_11092024_data_types.Lab014\" />\r\n      <module name=\"ATB8xJavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"SEPT.ex_11092024_data_types.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Lab015\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"SEPT.ex_11092024_data_types.Lab015\" />\r\n      <module name=\"ATB8xJavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"SEPT.ex_11092024_data_types.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Lab016\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"SEPT.ex_11092024_data_types.Lab016\" />\r\n      <module name=\"ATB8xJavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"SEPT.ex_11092024_data_types.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Lab017\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"SEPT.ex_11092024_data_types.Lab017\" />\r\n      <module name=\"ATB8xJavaPrograms\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"SEPT.ex_11092024_data_types.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Lab017\" />\r\n        <item itemvalue=\"Application.Lab016\" />\r\n        <item itemvalue=\"Application.Lab015\" />\r\n        <item itemvalue=\"Application.Lab014\" />\r\n        <item itemvalue=\"Application.Lab013\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"bc800b47-6d8a-47f0-8a68-204e72e1f87f\" name=\"Changes\" comment=\"\" />\r\n      <created>1726201410263</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1726201410263</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Add files\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1726341807007</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1726341807007</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Add files\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1726345415085</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1726345415085</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Add files\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1726346285312</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1726346285312</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Add files\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Add files\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Main.java</url>\r\n          <line>11</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-method\">\r\n          <url>file://$PROJECT_DIR$/src/SEPT/ex_11092024_data_types/Lab013.java</url>\r\n          <line>3</line>\r\n          <properties class=\"SEPT.ex_11092024_data_types.Lab013\" method=\"main\">\r\n            <option name=\"EMULATED\" value=\"true\" />\r\n            <option name=\"WATCH_EXIT\" value=\"false\" />\r\n          </properties>\r\n          <option name=\"timeStamp\" value=\"2\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f1ded27c33252a3f73957790b84f7c3aef5ff261)
++++ b/.idea/workspace.xml	(date 1726347133396)
+@@ -4,7 +4,26 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="bc800b47-6d8a-47f0-8a68-204e72e1f87f" name="Changes" comment="Add files" />
++    <list default="true" id="bc800b47-6d8a-47f0-8a68-204e72e1f87f" name="Changes" comment="Add files">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/EX_13092024/Lab019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_13092024_FORMAT_SPECIFIER/Lab019.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/EX_13092024/Lab020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_13092024_FORMAT_SPECIFIER/Lab020.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/EX_13092024/TASK_TABLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_13092024_FORMAT_SPECIFIER/TASK_TABLE.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/EX_13092024/TASK_calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_13092024_FORMAT_SPECIFIER/TASK_calculator.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_06092024_main_and_comment/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_06092024_MAIN_AND_COMMENTS/Lab004.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_06092024_main_and_comment/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_06092024_MAIN_AND_COMMENTS/Lab005.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_06092024_main_and_comment/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_06092024_MAIN_AND_COMMENTS/Lab006.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_06092024_main_and_comment/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_06092024_MAIN_AND_COMMENTS/Lab007.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_06092024_main_and_comment/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_06092024_MAIN_AND_COMMENTS/Lab008.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_09092024_keywords_and_identifiers/Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab010.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_09092024_keywords_and_identifiers/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_09092024_KEYWORDS_AND_IDENTIFIERS/Lab011.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_11092024_data_types/Lab012java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab012java.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_11092024_data_types/Lab013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab013.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_11092024_data_types/Lab014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab014.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_11092024_data_types/Lab015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab015.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_11092024_data_types/Lab016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab016.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/SEPT/ex_11092024_data_types/Lab017.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab017.java" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -64,11 +83,11 @@
+   </component>
+   <component name="RunManager" selected="Application.Lab017">
+     <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="SEPT.ex_11092024_data_types.Lab013" />
++      <option name="MAIN_CLASS_NAME" value="SEPT.EX_11092024_DATA_TYPES.Lab013" />
+       <module name="ATB8xJavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="SEPT.ex_11092024_data_types.*" />
++          <option name="PATTERN" value="SEPT.EX_11092024_DATA_TYPES.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -77,11 +96,11 @@
+       </method>
+     </configuration>
+     <configuration name="Lab014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="SEPT.ex_11092024_data_types.Lab014" />
++      <option name="MAIN_CLASS_NAME" value="SEPT.EX_11092024_DATA_TYPES.Lab014" />
+       <module name="ATB8xJavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="SEPT.ex_11092024_data_types.*" />
++          <option name="PATTERN" value="SEPT.EX_11092024_DATA_TYPES.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -90,11 +109,11 @@
+       </method>
+     </configuration>
+     <configuration name="Lab015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="SEPT.ex_11092024_data_types.Lab015" />
++      <option name="MAIN_CLASS_NAME" value="SEPT.EX_11092024_DATA_TYPES.Lab015" />
+       <module name="ATB8xJavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="SEPT.ex_11092024_data_types.*" />
++          <option name="PATTERN" value="SEPT.EX_11092024_DATA_TYPES.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -103,11 +122,11 @@
+       </method>
+     </configuration>
+     <configuration name="Lab016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="SEPT.ex_11092024_data_types.Lab016" />
++      <option name="MAIN_CLASS_NAME" value="SEPT.EX_11092024_DATA_TYPES.Lab016" />
+       <module name="ATB8xJavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="SEPT.ex_11092024_data_types.*" />
++          <option name="PATTERN" value="SEPT.EX_11092024_DATA_TYPES.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -116,11 +135,11 @@
+       </method>
+     </configuration>
+     <configuration name="Lab017" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="SEPT.ex_11092024_data_types.Lab017" />
++      <option name="MAIN_CLASS_NAME" value="SEPT.EX_11092024_DATA_TYPES.Lab017" />
+       <module name="ATB8xJavaPrograms" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="SEPT.ex_11092024_data_types.*" />
++          <option name="PATTERN" value="SEPT.EX_11092024_DATA_TYPES.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -171,7 +190,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1726346285312</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Add files">
++      <option name="closed" value="true" />
++      <created>1726346426596</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1726346426596</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+@@ -187,9 +214,9 @@
+           <option name="timeStamp" value="1" />
+         </line-breakpoint>
+         <line-breakpoint enabled="true" type="java-method">
+-          <url>file://$PROJECT_DIR$/src/SEPT/ex_11092024_data_types/Lab013.java</url>
++          <url>file://$PROJECT_DIR$/src/SEPT/EX_11092024_DATA_TYPES/Lab013.java</url>
+           <line>3</line>
+-          <properties class="SEPT.ex_11092024_data_types.Lab013" method="main">
++          <properties class="SEPT.EX_11092024_DATA_TYPES.Lab013" method="main">
+             <option name="EMULATED" value="true" />
+             <option name="WATCH_EXIT" value="false" />
+           </properties>
